@@ -24,7 +24,7 @@ This project is a custom-designed LinkedIn banner built using HTML and CSS. It f
 ## Author
 
 Rakshith V  
-[LinkedIn Profile](https://www.linkedin.com/in/rakshith-v)
+
 
 ## License
 
